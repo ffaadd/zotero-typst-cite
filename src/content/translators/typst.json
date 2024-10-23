@@ -1,0 +1,12 @@
+{
+	"translatorID": "a0d596e1-93cd-474e-a1a6-5b09084150fc",
+	"label": "Typst",
+	"creator": "ffaadd",
+	"target": "txt",
+	"minVersion": "7.0",
+	"maxVersion": "",
+	"priority": 100,
+	"inRepository": true,
+	"translatorType": 2,
+	"lastUpdated": "2024-10-23 14:39:11"
+}

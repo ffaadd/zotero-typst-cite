@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Typst Citation",
+	"version": "2.0",
+	"description": "Drag & Drop Cite for Typst (setup 'Typst' in Settings->Export->Quick Copy)",
+	"applications": {
+		"zotero": {
+			"id": "zotero-typst-cite@ffaadd.xyz",
+			"update_url": "https://github.com/ffaadd/zotero-cite-types/releases/update.json",
+			"strict_min_version": "6.999",
+			"strict_max_version": "7.0.*"
+		}
+	}
+}
